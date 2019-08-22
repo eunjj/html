@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-당신의 정보가 여기로 오나요?
+가입을 축하드립니다!!
 </body>
 </html>
