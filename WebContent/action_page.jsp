@@ -27,7 +27,7 @@
 
 </head>
 
-<body>
+<body style="background-color: pink;">
 
 	<br>
 	<br> 입력된 정보가 맞는 지 확인해주세요.
